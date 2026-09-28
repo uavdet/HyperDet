@@ -12,14 +12,14 @@
 [Bin Luo](https://openreview.net/profile?id=~Bin_Luo1)
 
 
-<img src="https://img.shields.io/badge/Paper-Under%20submission-orange" alt="Paper: Under submission">
+<img src="https://img.shields.io/badge/Paper-Under%20review-orange" alt="Paper: Under review">
 <img src="https://img.shields.io/badge/Code-Coming%20soon-blue" alt="Code: Coming soon">
 
 </div>
 
 ## Status
 
-This is the official project repository for **HyperDet**. The manuscript is currently under submission.
+This is the official project repository for **HyperDet**. The manuscript is currently under review.
 
 ## Code
 
